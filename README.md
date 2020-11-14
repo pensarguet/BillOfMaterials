@@ -9,7 +9,7 @@ Outside of mental sanitary good practices that are mandatory in my humble opinio
 Another reason to share my bill of materials is that as more and more friends or colleagues are turning remote working, lot of them asked me what pieces I picked!
 
 # The desk
-After spending days on a (too) small table, I definitively switch to an **height adjustable desk**. After a quick lookup to the market and feedback, I choose a standing desk frame 3-Stage Dual-Motor E5 from Flexispot (https://flexispot.co.uk/height-adjustable-desks/frame-only/3-stage-desk-frame-e5.html). With three programmable presets, you can easily save your favorite seated, standing, and underdesk cycling heights. You can also setup convenient activity alerts to remind you to sit or stand at regular intervals, or turn the alerts off completely when necessary. After some days of practice, I mainly use a stand up position at 110 cm and a sit down position at 75 cm.
+After spending days on a (too) small table, I definitively switch to an **height adjustable desk**. After a quick lookup to the market and feedback, I choose a standing desk frame 3-Stage Dual-Motor E5 from Flexispot (https://flexispot.co.uk). With three programmable presets, you can easily save your favorite seated, standing, and underdesk cycling heights. You can also setup convenient activity alerts to remind you to sit or stand at regular intervals, or turn the alerts off completely when necessary. After some days of practice, I mainly use a stand up position at 110 cm and a sit down position at 75 cm.
 
 For the desktop, as I wanted something in **bamboo**, I choose Hilver at Ikea with 140x65 cm size.
 
