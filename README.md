@@ -16,6 +16,6 @@ For the desktop, as I wanted something in **bamboo**, I choose Hilver at Ikea wi
 # The Microphone
 When you spend hours in calls or video meetings, I quickly decided to pick for an external mic with good quality for live discussions or recorded sessions. 
 
-After a quick market analysis and comment review, I decided to choose a Rode NT-USB I bought from Woodbrass (https://www.woodbrass.com). Along its good quality, the microphone comes with a microphone clamp, a tripod and a custom pop filter. On the side, you will find two rotary knobs and a connection for a headphone. The lower button allows you to adjust the volume of the headphones and using the upper button you can adjust the sound of your computer to that of the microphone. 
+After a quick market analysis and comment review, I decided to choose a **Rode NT-USB** (http://en.rode.com/microphones/nt-usb) I bought from Woodbrass (https://www.woodbrass.com). Along its good quality, the microphone comes with a microphone clamp, a tripod and a custom pop filter. On the side, you will find two rotary knobs and a connection for a headphone. The lower button allows you to adjust the volume of the headphones and using the upper button you can adjust the sound of your computer to that of the microphone. 
 
 The microphone plugs in over USB which means it does not need a microphone port and appears as a recording input for easy selection in Zoom, Webex, Google Meet or Microsoft Teams. For podcast and audio session, I use Audacity.
