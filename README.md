@@ -20,7 +20,9 @@ After a quick market analysis and comments review, I decided to choose a **Rode 
 
 The microphone plugs in over USB which means it does not need a microphone port and appears as a recording input for easy selection in Zoom, Webex, Google Meet or Microsoft Teams. For podcast and audio session, I use the free, cross platform and open source **Audacity** (https://www.audacityteam.org).
 
+Because It was important for me to keep my desktop not too crowded, I quickly consider to add a boom arm which became quickly essential for moving the microphone off the desktop, as well as to have it close to where I needed. I choose the **Rode PSA1** (http://www.rode.com/accessories/psa1) which fits perfectly with my NT-USB mic.
+
 # DAC / Audio Interface
-It's certainly an over-hyped part of the setup, but I wanted a DAC to bypass the poor one of my laptop for better sound and music quality. I decided to choose a Schiit Modi 3 (https://www.schiit.com/products/modi-1) as DAC and audio output for my speakers. It is powered over USB and appears as a regular output device from the OS. 
+It's certainly an over-hyped part of the setup, but I wanted a DAC to bypass the poor one of my laptop for better sound and music quality. I decided to choose a **Schiit Modi 3** (https://www.schiit.com/products/modi-1) as DAC and audio output for my speakers. It is powered over USB and appears as a regular output device from the OS. 
 
 I'm big fan of Schiit products (https://www.schiit.com). As I'm based in europe, I use the Schiit Europ online shopping site (https://www.schiit-europe.com/). It's currently complicated to order as there is few products availabilities and hundreds of people who want them!
