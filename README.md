@@ -13,6 +13,12 @@ After spending days on a (too) small table, I definitively switch to an **height
 
 For the desktop, as I wanted something in **bamboo**, I choose Hilver at Ikea with 140x65 cm size.
 
+
+# The keyboard and wrist rest
+My keyboard is a mechanical one as I love the touch of those ones. I picked an  **APEX 7** (https://steelseries.com/gaming-keyboards/apex-7?switch=red) from **Steelserie** (https://steelseries.com) with linear and quiet red switches. It's certainly a geeky feature but I like the OLED display which act as an integrated command center for useful information. There are also up to 6 macro buttons for quick shortcuts. The keyboard frame is in aluminum alloy, heavy and stable; nothing moves on the desktop!
+
+I also decided to choose this APEX7 because it is deliver with a **magnetic wrist rest**. It is link to the keyboard with a simple magnetic solution for easy and secure attachment. It is big enough for a full palm support, and have a soft touch finish, so you’re comfortable typing or coding as long as you want!
+
 # The microphone
 After spending hours in calls or video meetings, I quickly decided to pick for an external mic with good quality for live discussions or recorded sessions. 
 
