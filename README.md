@@ -28,6 +28,11 @@ The microphone plugs in over USB which means it does not need a microphone port 
 
 Because It was important for me to keep my desktop not too crowded, I quickly consider to add a boom arm which became quickly essential for moving the microphone off the desktop, as well as to have it close to where I needed. I choose the **Rode PSA1** (http://www.rode.com/accessories/psa1) which fits perfectly with my NT-USB mic.
 
+# The webcam
+I choose a Logitech StreamCam (https://www.logitech.com/) to deliver a better video quality experience in my zoom-like sessions and record some videos. After some weeks of use, I think that Streamcam’s main strengths are its accurate colors, 1080p60 capture rate and possibility to record in landscape or portrait mode. Be cautious that to achieve high-data throughput, it uses a USB type-C connection! 
+
+It's also worth to say that the Logitech Capture software (https://www.logitech.com/en-gb/product/capture) is pretty simple and allow interesting features like auto-framing and stabilization. You can choose to record at the same time two video streams, one with your camera and another one with your screen, interesting for demo!
+
 # DAC / Audio Interface
 It's certainly an over-hyped part of the setup, but I wanted a DAC to bypass the poor one of my laptop for better sound and music quality. I decided to choose a **Schiit Modi 3** (https://www.schiit.com/products/modi-1) as DAC and audio output for my speakers. It is powered over USB and appears as a regular output device from the OS. 
 
