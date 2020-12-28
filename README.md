@@ -4,17 +4,19 @@ Bill of Materials (BOM) for my home office
 
 # Why a bill of materials
 
-Because Covid-19 pandemic change deeply the way to work, home or remote office became the defacto model once you're in tech! When a part of your home become your office, it's the place where you spend most of your days... and part of nights, sometimes.
+Because Covid-19 pandemic changed deeply the way to work, home or remote office became the defacto model once you're in tech! Working from home is not new for me, but it's true that I've never had so many months working from home. And, when a part of your home becomes your office, it's the place where you spend most of your days... and part of nights, sometimes.
 
-Outside of mental sanitary good practices that are mandatory in my humble opinion to sustain in the long term, I think it's important to have a place where you are pleased to go with material that makes you performing and successful in your job. Beware, I do not think it's a all in one approach, and in my case I build my setup pieces after pieces, enriching my experience based on what I was missing and browsing for advices from others sharing their own setups.
+Outside of mental sanitary good practices that are mandatory in my humble opinion to sustain in the long term, I think it's important to have a place where you are pleased to go with a material that makes you performing and successful in your job. Beware, I do not think it's an all in one approach, and in my case I built my setup pieces after pieces, enriching my experience based on what I was missing and browsing for feedbacks  from others sharing their own setups.
 
-Another reason to share my bill of materials is that as more and more friends or colleagues are turning remote working, lot of them asked me what pieces I picked!
+Another reason to share my bill of materials is that as more and more friends or colleagues are turning remote working, and a lot of them asked me what pieces I picked!
 
 # Desktop
 
 After spending days on a (too) small table, I definitively switch to an **height adjustable desk**. After a quick lookup to the market and feedback, I choose a standing desk frame 3-Stage Dual-Motor E5 from [Flexispot](https://flexispot.co.uk "Flexispot"). With three programmable presets, you can easily save your favorite seated, standing, and underdesk cycling heights. You can also setup convenient activity alerts to remind you to sit or stand at regular intervals, or turn the alerts off completely when necessary. After some days of practice, I mainly use a stand up position at 110 cm and a sit down position at 75 cm.
 
 For the desktop, as I wanted something in **bamboo**, I choose Hilver at Ikea with 140x65 cm size.
+
+As cable management comes quickly as an issue to manage, I choosed this [under desk cable tray](https://www.amazon.com/dp/B07GLZZ2RZ?pd_rd_i=B07GLZZ2RZ&pd_rd_w=QFTsH&pf_rd_p=2e62cf0a-1323-46ac-bbb9-19dc851997c6&pd_rd_wg=JcFed&pf_rd_r=YJJ5F7W7M731PNWHZ6BE&pd_rd_r=30063d61-d3eb-4daa-af08-6cdc2049ab85). The set contains 2 under desk organizers (15.9''/40,5cm each) giving you a total of 31.8'' (81cm) of under desk wire management space. It is really spacious and strong as it holds up to 10 lb, perfect to put power strips and batteries. I succeeded to have to them in white, it fits nicely with the desktop frame, also in white.
 
 # Networking
 
