@@ -16,7 +16,7 @@ After spending days on a (too) small table, I definitively switch to an **height
 
 For the desktop, as I wanted something in **bamboo**, I choose Hilver at Ikea with 140x65 cm size.
 
-As cable management comes quickly as an issue to manage, I choosed this [under desk cable tray](https://www.amazon.com/dp/B07GLZZ2RZ?pd_rd_i=B07GLZZ2RZ&pd_rd_w=QFTsH&pf_rd_p=2e62cf0a-1323-46ac-bbb9-19dc851997c6&pd_rd_wg=JcFed&pf_rd_r=YJJ5F7W7M731PNWHZ6BE&pd_rd_r=30063d61-d3eb-4daa-af08-6cdc2049ab85). The set contains 2 under desk organizers (15.9''/40,5cm each) giving you a total of 31.8'' (81cm) of under desk wire management space. It is really spacious and strong as it holds up to 10 lb, perfect to put power strips and batteries. I succeeded to have to them in white, it fits nicely with the desktop frame, also in white.
+As cable management comes quickly as an issue to manage, I choosed this [under desk cable tray](https://www.amazon.com/dp/B07GLZZ2RZ?pd_rd_i=B07GLZZ2RZ&pd_rd_w=QFTsH&pf_rd_p=2e62cf0a-1323-46ac-bbb9-19dc851997c6&pd_rd_wg=JcFed&pf_rd_r=YJJ5F7W7M731PNWHZ6BE&pd_rd_r=30063d61-d3eb-4daa-af08-6cdc2049ab85). The set contains 2 under desk organizers (15.9''/40,5cm each) giving you a total of 31.8'' (81cm) of under desk wire management space. It is really spacious and strong as it holds up to 10 lb, perfect to put power strips and batteries. I succeeded to have them in white, it fits nicely with the desktop frame, also in white.
 
 # Networking
 
