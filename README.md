@@ -30,7 +30,7 @@ I also decided to choose this APEX7 because it is deliver with a **magnetic wris
 
 # USB connectivity
 
-As there are more and more USB peripherals to plug or power up, I choosed a [D-Link USB DUB-H7](https://www.dlink.com/en/products/dub-h7-7-port-usb-20-hub), a 7-Port USB 2.0 Hub with seven Fast Charge USB ports. It operates without an external power supply or with the included power source to supply power to connected USB devices. This USB hub integrate a fast-charge mode. When the DUB-H7 is in Fast Charge mode, it provides an increased maximum charging current of 2.4 A to connected devices. This makes it ideal for charging power-hungry devices, such as an iPad, for example. Moreover, its compact design is ideal for travel, and it eliminates the need to carry the iPad charger everywhere.
+As there are more and more USB peripherals to plug or to power, I choosed a [D-Link DUB-H7](https://www.dlink.com/en/products/dub-h7-7-port-usb-20-hub), a 7-Port USB 2.0 Hub with seven Fast Charge USB ports. It operates without an external power supply or with the included power source to supply power to connected USB devices. This USB hub integrate a Fast Charge mode which provides an increased maximum charging current of 2.4 A to connected devices. This makes it ideal for charging power-hungry devices, such as an iPad, for example. Moreover, its compact design is ideal for travel, and it eliminates the need to carry the iPad charger everywhere.
 
 # Microphone
 
