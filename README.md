@@ -20,6 +20,8 @@ For the desktop, as I wanted something in **bamboo**, I choose [Ikea Hilver](htt
 
 As **cable management** came quickly as an issue to manage, I choosed this [under desk cable tray](https://www.amazon.com/dp/B07GLZZ2RZ?pd_rd_i=B07GLZZ2RZ&pd_rd_w=QFTsH&pf_rd_p=2e62cf0a-1323-46ac-bbb9-19dc851997c6&pd_rd_wg=JcFed&pf_rd_r=YJJ5F7W7M731PNWHZ6BE&pd_rd_r=30063d61-d3eb-4daa-af08-6cdc2049ab85). The set contains 2 under desk organizers (40,5cm each) giving you a total of 81cm of under desk wire management space. I hung them centered with a back access. It is really spacious and strong as it holds up to 10 lb, perfect to put power strips and batteries. I succeeded to have them in white, it fits nicely with the desktop frame, also in white.
 
+As time went by, I realised that I was getting more and more pain at the base of my neck at the end of day, because my screen was not well positioned. So, I decided to add a **monitor stand riser** to place it exactly at the right height. I pick the one from [Navaris](https://www.amazon.com/Navaris-Support-Moniteur-avec-Rangement/dp/B07NGTKJTQ) in bamboo from amazon for nice integration on the desktop!
+
 # Networking
 
 As there is more and more **connectivity** needed on my desktop, I choose a [Netgear GS305](https://www.netgear.com/business/wired/switches/unmanaged/gs305v3) **Gigabit Ethernet unmanaged switch with 5 RJ45 ports** to distribute my home fiber connection to my PC laptop, my mac and my Raspberry Pi Lab. It's full plug & play and fanless metal housing material that can be put on the desktop or wall mounted. In my configuration, I installed it under my desktop close to my cable management system. As I'm thinking to build my own Raspberry Pi Lab cluster, I'm considering to pick a POE Switch to limit the number of cables. This part is in progress!
@@ -56,8 +58,10 @@ I choose a [Logitech StreamCam](https://www.logitech.com/) to deliver a better v
 
 It's also worth to say that the [Logitech Capture](https://www.logitech.com/en-gb/product/capture) software is pretty simple and allow interesting features like auto-framing and stabilization. You can choose to record at the same time two video streams, one with your camera and another one with your screen, interesting for demo!
 
-# DAC / Audio Interface
+# DAC / Audio Interface / Sound
 
 It's certainly an over-hyped part of the setup, but I wanted a **DAC** to bypass the poor one of my laptop for better sound and music quality. I decided to choose a [Schiit Modi 3](https://www.schiit.com/products/modi-1) as DAC and audio output for my speakers. It is powered over USB and appears as a regular output device from the OS.
 
 I'm big fan of [Schiit](https://www.schiit.com) products. As I'm based in europe, I use the [Schiit Europ online shopping site](https://www.schiit-europe.com/). It's currently complicated to order as there is few products availabilities and hundreds of people who want them!
+
+The sound of the DAC is amplified by a [Tangent Ampster BT II](https://tangent-audio.com/products/9-electronics/162-tangent-ampster-bt-ii/). I wanted both a **hi-fi amplifier** but in a compact format to put on my desk. I chose the Ampster BT II for its quality and its wide and versatile connectors: Bluetooth, Optical In, Line In, Aux In, Sub Out with 2 x 50 Watts. As for the **speakers**, I selected the [Cabasse MC-170](https://www.cabasse.com/en/antigua-mc170/) which perfectly complements the audio system! Clearly, I wouldn't have put these on if I hadn't stumbled upon a very good deal.
