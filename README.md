@@ -22,6 +22,11 @@ As **cable management** came quickly as an issue to manage, I choosed this [unde
 
 As time went by, I realised that I was getting more and more pain at the base of my neck at the end of day, because my screen was not well positioned. So, I decided to add a **monitor stand riser** to place it exactly at the right height. I pick the one from [Navaris](https://www.amazon.com/Navaris-Support-Moniteur-avec-Rangement/dp/B07NGTKJTQ) in bamboo from amazon for nice integration on the desktop!
 
+# Monitor
+My monitor is a [Dell SS3221QSQ](https://www.dell.com/en-us/shop/dell-32-curved-4k-uhd-monitor-s3221qs/apd/210-axkm/monitors-monitor-accessories), it's a 4k/60htz 32" incurved format. I choose this one for several reasons. First, because it has 2 HDMI and 1 Display Port inputs that may allow me to have 2 computers on the same screen, and on nominal setup, the resolution allow me to have 3 active zones to work. Then because of the USB connectivity that feed my keyboard and mouse; Finally, the ratio spec / price/performance was perfect for me.
+
+Trust me, when you spent your life on max 24" flat screen, such a one is HUGE. It took me one week to adapt myself, but it's dope right now!
+
 # Lighting
 Because I wanted to have a regular and constant intensity light for my video recordings or video conferences, I picked the famous [Key Light Air](https://www.elgato.com/en/key-light-air) from [Elgato](https://www.elgato.com/en). Definitively, it gets your camera feed looking professional, and because I'm personnaly really sensible to light, I use it, as well, for luminotherapy session when working. It is LED based, and raise no flash sensation to your eye retina. The 3D Swivel mount moves nicely to find your perfect beam angle. The Freestanding base allow to put something on it, like USB hub if needed. Be aware that it's only working with WIFI connectivity on the 2.4Ghz band, and once paired you're able to easily manage the lumen output and the K color range. Just to conclude, I hesitated with the Key Light Model which have 2400 lumens, twice the Key Light Air, but frankly speaking it's still a very serious lighting! 
 
